@@ -1,0 +1,9 @@
+numpy
+opencv-python
+pygame
+PyOpenGL
+PyOpenGL_accelerate
+pyttsx3
+requests
+sounddevice
+SpeechRecognition
